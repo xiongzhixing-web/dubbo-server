@@ -24,7 +24,7 @@
         <java.version>1.8</java.version>
         <maven-compiler-plugin.version>3.7.0</maven-compiler-plugin.version>
         <log.version>1.2.3</log.version>
-        <spring.version>5.1.5.RELEASE</spring.version>
+        <spring.version>5.3.19</spring.version>
     </properties>
     <dependencyManagement>
         <dependencies>
